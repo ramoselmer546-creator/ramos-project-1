@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 600 650" role="img" aria-labelledby="title desc">
+<title id="title">Profile illustration placeholder</title>
+<desc id="desc">A simple illustrated person on a purple background. Replace with your own profile photo if desired.</desc>
+<defs><linearGradient id="bg" x1="0" y1="0" x2="1" y2="1"><stop stop-color="#776cf0"/><stop offset="1" stop-color="#b7b1ff"/></linearGradient></defs>
+<rect width="600" height="650" rx="36" fill="url(#bg)"/>
+<circle cx="300" cy="235" r="112" fill="#f2c6a5"/>
+<path d="M188 235c-10-112 42-166 125-166 89 0 133 65 111 173-21-44-49-72-88-83-45 38-91 56-148 55z" fill="#26304a"/>
+<path d="M110 650c10-170 79-255 190-255s180 85 190 255" fill="#26304a"/>
+<path d="M245 300q55 40 110 0" fill="none" stroke="#a75e55" stroke-width="8" stroke-linecap="round"/>
+<circle cx="260" cy="235" r="8" fill="#26304a"/><circle cx="340" cy="235" r="8" fill="#26304a"/>
+<text x="300" y="585" text-anchor="middle" font-family="Arial,sans-serif" font-size="25" fill="#fff" opacity=".85">YOUR PHOTO HERE</text>
+</svg>
