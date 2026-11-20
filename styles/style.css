@@ -3,8 +3,8 @@
 :root {
   --ink: #172033;
   --muted: #657087;
-  --accent: #6558e8;
-  --accent-dark: #5144cf;
+  --accent: #585292;
+  --accent-dark: #181346;
   --surface: #ffffff;
   --soft: #f5f6ff;
   --line: #e7e9f2;
@@ -141,7 +141,7 @@ a {
 
 .secondary {
   border: 1px solid var(--line);
-  background: white;
+  background: rgb(119, 121, 212);
 }
 
 .secondary:hover {
